@@ -1,2 +1,2 @@
-# Doppietta
+An occasional project in Blender
  
